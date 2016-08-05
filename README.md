@@ -14,3 +14,6 @@ _Use Slack responsible._
 
 ## Media
 * Auto collapse media on your slack phone app.
+
+## Tips and tricks
+* Coming soon!
